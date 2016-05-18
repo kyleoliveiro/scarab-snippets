@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+// $1
+// ${1/./=/g}
+// $2
+
+$3
+]]></content>
+	<tabTrigger>com</tabTrigger>
+	<description>Section comment : Scarab</description>
+	<scope>source.scss</scope>
+</snippet>

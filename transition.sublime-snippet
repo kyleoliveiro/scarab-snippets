@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include transition( ${1:all}, duration($2), easing($3) );
+]]></content>
+	<tabTrigger>tr</tabTrigger>
+	<description>Transition : Scarab</description>
+	<scope>source.scss</scope>
+</snippet>

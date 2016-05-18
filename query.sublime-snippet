@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include query( $1 ) {
+	$2
+}
+]]></content>
+	<tabTrigger>q</tabTrigger>
+	<description>Query : Scarab</description>
+	<scope>source.scss</scope>
+</snippet>

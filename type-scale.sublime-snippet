@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include type-scale( $1 );
+]]></content>
+	<tabTrigger>tr</tabTrigger>
+	<description>Transition : Scarab</description>
+	<scope>source.scss</scope>
+</snippet>

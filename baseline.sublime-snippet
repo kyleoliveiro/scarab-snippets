@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+bl( $1 )
+]]></content>
+	<tabTrigger>b</tabTrigger>
+	<description>Baseline : Scarab</description>
+	<scope>source.scss</scope>
+</snippet>
