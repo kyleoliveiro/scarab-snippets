@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tr</tabTrigger>
 	<description>Transition : Scarab</description>
-	<scope>source.scss</scope>
+	<scope>source.sass, source.scss</scope>
 </snippet>

@@ -4,5 +4,5 @@ palette( $1 )
 ]]></content>
 	<tabTrigger>pal</tabTrigger>
 	<description>Palette : Scarab</description>
-	<scope>source.scss</scope>
+	<scope>source.sass, source.scss</scope>
 </snippet>

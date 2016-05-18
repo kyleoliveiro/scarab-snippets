@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>q</tabTrigger>
 	<description>Query : Scarab</description>
-	<scope>source.scss</scope>
+	<scope>source.sass, source.scss</scope>
 </snippet>

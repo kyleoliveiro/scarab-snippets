@@ -8,5 +8,5 @@ $3
 ]]></content>
 	<tabTrigger>com</tabTrigger>
 	<description>Section comment : Scarab</description>
-	<scope>source.scss</scope>
+	<scope>source.sass, source.scss</scope>
 </snippet>
