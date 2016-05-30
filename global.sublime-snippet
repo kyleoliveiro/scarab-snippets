@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-bl( $1 )
+global( $1 )
 ]]></content>
-	<tabTrigger>bl</tabTrigger>
-	<description>Baseline : Scarab</description>
+	<tabTrigger>glo</tabTrigger>
+	<description>Global : Scarab</description>
 	<scope>source.sass, source.scss</scope>
 </snippet>

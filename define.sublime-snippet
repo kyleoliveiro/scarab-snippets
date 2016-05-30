@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+@include define( ${1:[KEY]}, ${2:[definition...]} );
+]]></content>
+	<tabTrigger>def</tabTrigger>
+	<description>Define : Scarab</description>
+	<scope>source.sass, source.scss</scope>
+</snippet>

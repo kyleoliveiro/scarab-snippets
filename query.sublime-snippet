@@ -4,7 +4,7 @@
 	$2
 }
 ]]></content>
-	<tabTrigger>q</tabTrigger>
+	<tabTrigger>que</tabTrigger>
 	<description>Query : Scarab</description>
 	<scope>source.sass, source.scss</scope>
 </snippet>

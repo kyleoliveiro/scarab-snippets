@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-bl( $1 )
+easing( $1 )
 ]]></content>
-	<tabTrigger>bl</tabTrigger>
-	<description>Baseline : Scarab</description>
+	<tabTrigger>eas</tabTrigger>
+	<description>Easing : Scarab</description>
 	<scope>source.sass, source.scss</scope>
 </snippet>

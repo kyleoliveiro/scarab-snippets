@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-bl( $1 )
+duration( $1 )
 ]]></content>
-	<tabTrigger>bl</tabTrigger>
-	<description>Baseline : Scarab</description>
+	<tabTrigger>dur</tabTrigger>
+	<description>Duration : Scarab</description>
 	<scope>source.sass, source.scss</scope>
 </snippet>

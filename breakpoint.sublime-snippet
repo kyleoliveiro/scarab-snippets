@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-bl( $1 )
+breakpoint( $1 )
 ]]></content>
-	<tabTrigger>bl</tabTrigger>
-	<description>Baseline : Scarab</description>
+	<tabTrigger>bre</tabTrigger>
+	<description>Breakpoint : Scarab</description>
 	<scope>source.sass, source.scss</scope>
 </snippet>

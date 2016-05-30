@@ -2,7 +2,7 @@
 	<content><![CDATA[
 @include type-scale( $1 );
 ]]></content>
-	<tabTrigger>tr</tabTrigger>
-	<description>Transition : Scarab</description>
+	<tabTrigger>ts</tabTrigger>
+	<description>Type Scale : Scarab</description>
 	<scope>source.sass, source.scss</scope>
 </snippet>

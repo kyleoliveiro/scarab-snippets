@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include transitions((
+	${1:property}: ${2:duration} ${3:easing},
+));
+]]></content>
+	<tabTrigger>tra</tabTrigger>
+	<description>Transitions : Scarab</description>
+	<scope>source.sass, source.scss</scope>
+</snippet>

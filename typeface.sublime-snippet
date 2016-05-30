@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-bl( $1 )
+typeface( $1 )
 ]]></content>
-	<tabTrigger>bl</tabTrigger>
-	<description>Baseline : Scarab</description>
+	<tabTrigger>tf</tabTrigger>
+	<description>Typeface : Scarab</description>
 	<scope>source.sass, source.scss</scope>
 </snippet>
